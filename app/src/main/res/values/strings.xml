@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ebb</string>
+    <string name="hinttxt">输入事件标记</string>
+</resources>
