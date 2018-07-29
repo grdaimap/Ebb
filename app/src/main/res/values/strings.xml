@@ -1,4 +1,21 @@
 <resources>
     <string name="app_name">Ebb</string>
-    <string name="hinttxt">输入事件标记</string>
+    <string name="hinttxt">输入需要创建/删除的复习标题</string>
+    <string name="lefttxt">帮助\n关于</string>
+    <string name="righttxt">创建\n删除</string>
+    <string name="uppertxt">将在列表中的时间创建复习日程</string>
+    <string name="brief">
+        开发者：grdaimap\n
+        版本V1.0\n\n
+        Ebb简要操作说明：\n
+    1 运行时弹出权限，允许读写日历；\n
+    2 输入事件标题（建议具有唯一性）；\n
+    3 单击绿色按钮创建复习日程；\n
+    4 长按绿色按钮删除复习日程。\n\n
+        BUG反馈，请到\n
+        https://github.com/grdaimap/Ebb/issues \n\n
+    更多信息，请看\n
+        https://github.com/grdaimap/Ebb/wiki \n\n
+    来赞助我吧！</string>
+    <string name="hb">红包</string>
 </resources>
