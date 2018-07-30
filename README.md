@@ -10,7 +10,7 @@
 
 ## 使用教程：
 
-[wiki页面](https://github.com/grdaimap/Ebb/wiki/Ebb%E7%9A%84Wiki)
+[wiki页面](https://github.com/grdaimap/Ebb/wiki)
 
 ## BUG上报：
 
