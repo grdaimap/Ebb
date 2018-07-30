@@ -1,4 +1,5 @@
 # Ebb:一款极度精简管理复习日程的android app
+>[点此下载最新版apk安装包](https://raw.githubusercontent.com/grdaimap/Ebb/master/latestapk/latest.apk)
 
 >[下载源码压缩包（Download Zip）的请告知作者](https://github.com/grdaimap/Ebb/issues/2)
 
