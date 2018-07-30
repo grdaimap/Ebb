@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(MainActivity.this, "获取了值", Toast.LENGTH_SHORT).show();
                 }
                 AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
-                builder.setMessage("确定删除所有" + str + "日程吗？");
+                builder.setMessage("确定删除所有（" + str + "）日程吗？");
                 builder.setTitle("危险操作确认");
                 builder.setPositiveButton("删除", new DialogInterface.OnClickListener() {
                     @Override
