@@ -1,5 +1,7 @@
 # Ebb:一款极度精简管理复习日程的android app
 
+>[下载源码压缩包（Download Zip）的请告知作者](https://github.com/grdaimap/Ebb/issues/2)
+
 ## 权限：
 读写系统日历
 
